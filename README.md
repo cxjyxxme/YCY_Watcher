@@ -1,5 +1,6 @@
 # YCY Watcher
 杨超越编程大赛票数监视工具
+<p align="center"><img width="100%" src="img/demo.png" /></p>
 
 ## Prerequisites
 - Linux or macOS
